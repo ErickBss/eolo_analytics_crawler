@@ -1,0 +1,5 @@
+pytest-playwright
+asyncio
+sqlalchemy==2.0.32
+mysql-connector-python
+schedule
